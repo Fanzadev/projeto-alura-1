@@ -21,9 +21,8 @@ body {
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
-    min-height: 100vh;
-    /*width: 100%;/*
-  
+    width: 100%;
+  /*min-height: 100vh;/*
  }
 .cabecalho {
     padding: 2% 0%  0% 10%;
